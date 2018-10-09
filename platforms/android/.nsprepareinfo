@@ -1,0 +1,21 @@
+{
+	"time": "Tue Oct 09 2018 09:17:07 GMT+0300 (FLE Daylight Time)",
+	"nativePlatformStatus": "1",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "189154735e9b94be35a145538db0f80bb253246876682048140d3c833b052876",
+	"changesRequireBuildTime": "Tue Oct 09 2018 09:15:12 GMT+0300 (FLE Daylight Time)",
+	"appFilesHashes": {
+		"D:\\work\\TestProjects\\prevTest\\app\\app.css": "d40fc070d5b3a93be122ad5839edb08268fd71a5",
+		"D:\\work\\TestProjects\\prevTest\\app\\LICENSE": "79ee7f9b7891d9cd9ce7ee6c24887aee90282e76",
+		"D:\\work\\TestProjects\\prevTest\\app\\feature1\\feature1.js": "18474f1070c9b0aa214335700ff9553308a71ee5",
+		"D:\\work\\TestProjects\\prevTest\\app\\main-page.js": "9681a346283a0c313a4e5b663886b0c828befae4",
+		"D:\\work\\TestProjects\\prevTest\\app\\app.js": "86c3a6d4c3a2fb7ace4cedc88dd9e0a779b2d6ab",
+		"D:\\work\\TestProjects\\prevTest\\app\\main-page.xml": "1a7dc8e6eb35c05b1ec1f8e5337fb845793581d3",
+		"D:\\work\\TestProjects\\prevTest\\app\\package.json": "8447865910d0a06ce7fa2534078a5f4320e25382",
+		"D:\\work\\TestProjects\\prevTest\\app\\test\\test.txt": "4b6fcb2d521ef0fd442a5301e7932d16cc9f375a",
+		"D:\\work\\TestProjects\\prevTest\\app\\references.d.ts": "c83a3304d98c2586359871f5d8ac10c8aa8af848",
+		"D:\\work\\TestProjects\\prevTest\\app\\main-view-model.js": "a9cabbba9e43719fb188e33462298469d06159c1"
+	}
+}
