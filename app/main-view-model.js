@@ -4,12 +4,12 @@ var HelloWorldModel = (function (_super) {
     function HelloWorldModel() {
         _super.call(this);
         this.counter = 42;
-        this.set("message", this.counter + " taps left");
+        this.set("message", this.counter + " taps left test");
     }
     HelloWorldModel.prototype.tapAction = function () {
         this.counter--;
         if (this.counter <= 0) {
-            this.set("message", "Hoorraaay! You unlocked the NativeScript clicker achievement!");
+            this.set("message", "Hoorraaay! You unlocked t gfhe NativeScript clicker achievement!");
         }
         else {
             this.set("message", this.counter + " taps left");
